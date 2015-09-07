@@ -1,6 +1,6 @@
 <div id="nav">
   <nav>
-    <span id="logo"><img src="/HCSD/imgs/logo.png"></span>
+    <span id="logo"><img src="/imgs/logo.png"></span>
     <ul class="nav">
       <li><a href="#">Budget</a>
         <ul>

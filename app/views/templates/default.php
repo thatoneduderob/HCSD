@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <title>HCSD</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="./css/materialize.css">
+    <link rel="stylesheet" href="/css/materialize.css">
     <!-- <link rel="stylesheet" href="/HCSD/css/materialize.css"> -->
     <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
-    <link rel="stylesheet" href="./css/custom.css">
-    <link rel="icon" type="img/png" href="/HCSD/imgs/wolf.png">
+    <link rel="stylesheet" href="/css/custom.css">
+    <link rel="icon" type="img/png" href="/imgs/wolf.png">
   </head>
   <body>
     {% include 'templates/partials/navigation.php' %}
@@ -66,7 +66,7 @@
             <div class="card-content white-text">
               <span class="card-title">Featured</span>
               <h5><a href="#">HES Gets a New Playground!</a></h5>
-              <p><img src="/HCSD/imgs/sample-news.jpg"></p>
+              <p><img src="/imgs/sample-news.jpg"></p>
               <p>A special thank you (attached) for the new playground installed at the Highland Elmentary School. Thank You</p>
               <br>
               <p><a class="waves-effect waves-light btn">View all stories</a></p>
@@ -86,6 +86,6 @@
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="/HCSD/js/materialize.min.js"></script>
+    <script src="/js/materialize.min.js"></script>
   </body>
 </html>
